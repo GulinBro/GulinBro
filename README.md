@@ -1,7 +1,7 @@
   ## Hi! I'm Gustavo Brendon 🖐️
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5533999450505&text=Ol%C3%A1!%20Estou%20entrando%20em%20contato%20com%20voc%C3%AA%20ap%C3%B3s%20ter%20visitado%20sua%20p%C3%A1gina%20no%20Github.)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guhgomes_pv)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guhgomes_pv/)
 
 <div align="center">
   <a href="https://github.com/GulinBro">
