@@ -14,9 +14,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GulinBro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulinBro&layout=compact&langs_count=7&theme=dark"/>
 
-<h5 style="font-weight: bold">Technologies I use in my day</h5>
-   
   <div align="center">
+   <h5 style="font-weight: bold">Technologies I use in my day</h5>
   <img align="center" alt="cplusplus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
   </div> 
 
