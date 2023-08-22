@@ -2,6 +2,7 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5533999450505&text=Ol%C3%A1!%20Estou%20entrando%20em%20contato%20com%20voc%C3%AA%20ap%C3%B3s%20ter%20visitado%20sua%20p%C3%A1gina%20no%20Github.)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guhgomes_b/)
+<img align="center" alt="css" src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
 
 <div align="center">
   <a href="https://github.com/GulinBro">
