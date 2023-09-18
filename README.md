@@ -18,10 +18,7 @@
 
 
 
-<div align="center">
-  <a href="https://github.com/GulinBro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GulinBro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulinBro&layout=compact&langs_count=7&theme=dark"/>
+
 
   <div align="center">
    <h5 style="font-weight: bold">Technologies I use in my day</h5>
