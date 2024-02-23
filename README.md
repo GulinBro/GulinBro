@@ -10,7 +10,7 @@
 <br>
 
  
-<img src="https://camo.githubusercontent.com/5047335e535fe01ec9b9b03a2b22a1608c6016b9949903b6e56d7e984579e4e0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d426978706f2673686f775f69636f6e733d74727565267468656d653d636f62616c74" alt="Gustavo GitHub Status" data-canonical-src="https://github-readme-stats.vercel.app/api?username=GulinBro&amp;show_icons=true&amp;theme=cobalt" style="max-width: 100%;">
+<img src="" alt="Gustavo GitHub Status" data-canonical-src="https://github-readme-stats.vercel.app/api?username=GulinBro&amp;show_icons=true&amp;theme=cobalt" style="max-width: 100%;">
 
 
 
