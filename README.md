@@ -9,7 +9,8 @@
 <div style= "display flex;  justify-content: center;">✉️ Email - guhgomesyt@gmail.com </div>
 <br>
 
-<img src="https://camo.githubusercontent.com/5c233bd66cafecca2c12257a761f1e17273a0bb9fd3393cc0245df2999f267d4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6564757472696e646164652673686f775f69636f6e733d74727565267468656d653d64726163756c61" alt="Gustavo GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=gulinbro&amp;show_icons=true&amp;theme=dracula" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/5c233bd66cafecca2c12257a761f1e17273a0bb9fd3393cc0245df2999f267d4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6564757472696e646164652673686f775f69636f6e733d74727565267468656d653d64726163756c61" alt="Gustavo GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=GulinBro&amp;show_icons=true&amp;theme=dracula" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/c6a0a92f78323a1dec07ecb7d3371d0ad1dc4a64642313eb5031f382aa725907/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d426978706f26686964653d6a6176617363726970742c68746d6c" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulinBro&amp;hide=javascript,html" style="max-width: 100%;">
 
 
 
