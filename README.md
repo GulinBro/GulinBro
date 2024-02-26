@@ -3,8 +3,9 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5533999450505&text=Ol%C3%A1!%20Estou%20entrando%20em%20contato%20com%20voc%C3%AA%20ap%C3%B3s%20ter%20visitado%20sua%20p%C3%A1gina%20no%20Github.)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guhgomes_b/) <a href="https://www.linkedin.com/in/gustavo-brendon-51a2a3251/" rel="nofollow"><img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
+<img src="https://camo.githubusercontent.com/8e4362e4275d7a628afdfd0d08a519988d496a66d9c20d4872fd8fda3e1d614a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d726564" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red" style="max-width: 100%;">
 <div style= "display flex;  justify-content: center;">💻 Discord - Gµlin ™#4264 ou guhgomes </div>
-<div style= "display flex;  justify-content: center;">✉️ Email - guhgomesyt@gmail.com </div><img src="https://camo.githubusercontent.com/8e4362e4275d7a628afdfd0d08a519988d496a66d9c20d4872fd8fda3e1d614a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d726564" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red" style="max-width: 100%;">
+<div style= "display flex;  justify-content: center;">✉️ Email - guhgomesyt@gmail.com </div>
 <br>
   <div align="center">
    <h5 style="font-weight: bold">Technologies I use in my day</h5>
